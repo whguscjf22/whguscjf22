@@ -48,5 +48,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______) -->
 
-노션 >>> ### [NOTION Link](https://swamp-crest-637.notion.site/d2f22bc0b2144a1ca852f0ff77d7f197?pvs=4)
-Email >>> whguscjf22@gmail.com
+### 노션 >>>  [NOTION Link](https://swamp-crest-637.notion.site/d2f22bc0b2144a1ca852f0ff77d7f197?pvs=4) 
+### Email >>> whguscjf22@gmail.com
